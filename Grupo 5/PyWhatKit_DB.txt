@@ -1,0 +1,85 @@
+Date: 25/11/2024
+Time: 17:49
+Phone Number: +5515981513004
+Message: Olá! Esta é uma mensagem de teste.
+--------------------
+Date: 25/11/2024
+Time: 17:50
+Phone Number: +5515981513004
+Message: Olá! Esta é uma mensagem de teste.
+--------------------
+Date: 25/11/2024
+Time: 17:56
+Phone Number: +5515991564560
+Message: Olá! Esta é uma mensagem de teste.
+--------------------
+Date: 25/11/2024
+Time: 20:25
+Phone Number: +5515991564560
+Message: Olá! Esta é uma mensagem de teste.
+--------------------
+Date: 25/11/2024
+Time: 20:51
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Hey All!
+--------------------
+Date: 25/11/2024
+Time: 20:52
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Hey All!
+--------------------
+Date: 26/11/2024
+Time: 20:55
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 26/11/2024
+Time: 20:56
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 26/11/2024
+Time: 20:57
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 26/11/2024
+Time: 20:58
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 26/11/2024
+Time: 20:59
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:47
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:48
+Group ID: S5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:50
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:51
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:52
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
+Date: 27/11/2024
+Time: 20:53
+Group ID: IS5jUzVoIti5XUK3LWR91F
+Message: Oi, este é um lembrete automático!
+--------------------
